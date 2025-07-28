@@ -32,7 +32,7 @@ function App() {
             <span className="bg-gradient-to-r from-blue-600 to-green-600 bg-clip-text text-transparent"> boas mãos</span>
           </h2>
           <h3 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-600 to-green-600 bg-clip-text text-transparent mb-8">
-            Atendimento Equatorial especializado
+            Atendimento Neo energia especializado
           </h3>
           <p className="text-xl text-gray-600 mb-12 max-w-2xl mx-auto">
             Oferecemos soluções completas para suas necessidades energéticas com suporte personalizado.
