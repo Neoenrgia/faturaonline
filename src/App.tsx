@@ -3,7 +3,7 @@ import { FileText, DollarSign, MessageCircle, Zap } from 'lucide-react';
 
 function App() {
   const handleWhatsAppRedirect = () => {
-    window.open('https://wa.me/5571999835707?text=Ol%C3%A1');
+    window.open('https://wa.me/557135999056?text=Ol%C3%A1%2C%20desejo%20atendimento%20');
   };
 
   return (
