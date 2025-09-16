@@ -27,7 +27,7 @@ function App() {
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-6 py-16">
         <div className="text-center mb-12">
-          <h2 className="text-4xl font-bold text-gray-900 mb-4">
+          <h2 className="text-4xl font-bold text-blue-900 mb-4">
             Bem-vindo à Neoenergia
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
